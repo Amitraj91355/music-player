@@ -1,5 +1,5 @@
 const songs = [
-    { name: "On My Way", src: "Songs/1.mp3", image: "Img/1.jpg" },
+    { name: "Tu Banja Gali Benaras Ki", src: "Songs/1.mp3", image: "Img/1.jpg" },
     { name: "Alan Walker-Fade", src: "Songs/2.mp3", image: "Img/2.jpg" },
     { name: "Cartoon - On & On", src: "Songs/3.mp3", image: "Img/3.jpg" },
     { name: "Warriyo - Mortals", src: "Songs/4.mp3", image: "Img/4.jpg" },
